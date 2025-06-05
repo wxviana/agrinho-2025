@@ -63,6 +63,8 @@ function keyPressed() {
     }
   }
 }
+//eu presiso que vc faça um jogo no p5js sobre celebrando campo a cidade entao preiso de um jogo de perguntas se for "s" para sim que funcione e "n" para não no minimo 15 perguntas, e que mude de cor a cada pergunta que passe 
+//chatgpt
 
 function proximaPergunta() {
   perguntaAtual++;
